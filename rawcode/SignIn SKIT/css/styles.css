@@ -1,0 +1,53 @@
+body {
+  background-color: #f8f8f8;
+}
+.main-wrapper {
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 150px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 54px;
+}
+h1 {
+  margin-bottom: 50px;
+}
+img {
+  width: 100%;
+}
+.signup-link {
+  text-align: center;
+}
+.signup-link a {
+  color: black;
+  text-decoration: underline;
+}
+input {
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1.5px solid grey;
+  outline: none;
+}
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+}
+input[type="checkbox"] {
+  margin-right: 12px;
+  margin-bottom: 50px;
+}
+button {
+  border: none;
+  outline: none;
+  padding: 15px 45px;
+  margin-bottom: 90px;
+}
+.social-wrapper a {
+  margin-right: 18px;
+}
+.fa-facebook-square {
+  color: blue;
+}
+.fa-google-plus-square {
+  color: red;
+}
